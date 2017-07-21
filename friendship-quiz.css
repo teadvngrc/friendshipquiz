@@ -1,0 +1,41 @@
+body {
+  font-family: "Times";
+  background-color: #fff;
+}
+
+button {
+  font-family: "Courier new";
+  background-color: #EC9D93;
+  border: none;
+  color: #f8f8f8;
+  padding: 5px 10px 5px 10px;
+}
+
+h1 {
+  color:#B7E86E;
+  text-align: center;
+}
+
+#question {
+  font-size: 24px;
+  text-align: center;
+}
+
+.answers, .guesses {
+  text-align: center;
+}
+
+#result {
+  margin-top: 10%;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+}
+
+#image {
+  width: auto;
+  height:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
