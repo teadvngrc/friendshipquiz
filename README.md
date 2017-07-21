@@ -1,1 +1,1 @@
-# friendshipquiz
+# friendship quiz
